@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/61m5v8eq9h8m8btx?svg=true)](https://ci.appveyor.com/project/poi1nt/destructuring)
